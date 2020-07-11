@@ -7,3 +7,5 @@
 * HTML
 * BootStrap/CSS
 
+[Deployed to Heroku](https://weather-info-api-app.herokuapp.com/)
+
