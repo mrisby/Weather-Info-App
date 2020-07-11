@@ -7,4 +7,3 @@
 * HTML
 * BootStrap/CSS
 
-[Live version of site hosted by Heroku](https://git.heroku.com/weather-info-api-app.git)
